@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/miracneroid/Documents/Class/DAA Lab/Lab1/4)/8106-Lab1-4-'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _EXCHANGE, symObjAddr: 0x0, symBinAddr: 0x100003B98, symSize: 0x3C }
+  - { offsetInCU: 0x4E, offset: 0x4E, size: 0x8, addend: 0x0, symName: _EXCHANGE, symObjAddr: 0x0, symBinAddr: 0x100003B98, symSize: 0x3C }
+  - { offsetInCU: 0x8E, offset: 0x8E, size: 0x8, addend: 0x0, symName: _ROTATE_RIGHT, symObjAddr: 0x3C, symBinAddr: 0x100003BD4, symSize: 0x90 }
+  - { offsetInCU: 0xCE, offset: 0xCE, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xCC, symBinAddr: 0x100003C64, symSize: 0x264 }
+...
