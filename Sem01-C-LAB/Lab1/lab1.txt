@@ -1,0 +1,9 @@
+Linux commands  man
+ ls
+ pwd
+ cd
+ mkdir  cp
+ mv
+ rm
+ rmdir
+ whereis
